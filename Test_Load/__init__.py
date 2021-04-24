@@ -1,0 +1,2 @@
+def XuatDuLieu(name):
+    pass
