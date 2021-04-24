@@ -12,7 +12,7 @@ setup(
     license='MIT',
     author='Quoc',
     author_email='huynhquoc1990@gmail.com',
-    description='Demo Load Code To Pypi',
+    description='A small example package',
     long_description=long_description,
     long_description_content_type="text/markdown",
     classifiers=[
